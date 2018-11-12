@@ -1,3 +1,5 @@
 Den con khi cung hieu duoc lenh git
 
 add: Đăng ký thay đổi trong index
+
+sua lan 3
